@@ -1,0 +1,27 @@
+@font-face {
+  font-family:c64;
+  src: url(fonts/C64.ttf);  
+}
+
+@font-face {
+font-family:pc;
+  src: url(fonts/pcsenior.ttf);
+}
+
+b {
+  font-family: pc;
+}
+
+ul, li {
+  font-family:pc;
+}
+
+a {
+  font-family:pc;
+  font-size: 20px;
+}
+
+h1, h2 {
+  font-family:pc;
+  color:neon-green;
+}
