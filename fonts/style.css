@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bleach';
+  src: url('FontBleach.ttf')  format('truetype');
+
+}
+
+h1 {
+  font-family:Bleach;
+  color:#4d0000; 
+}
